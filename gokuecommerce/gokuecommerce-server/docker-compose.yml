@@ -3,7 +3,7 @@ services:
 
   testerestapi:
     build: .
-    container_name: gokueauthentication
+    container_name: gokuecommerce
     ports:
       - "127.0.0.1:3306"
     restart: always

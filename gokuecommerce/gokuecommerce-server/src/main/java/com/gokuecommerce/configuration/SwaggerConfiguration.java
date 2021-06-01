@@ -27,8 +27,8 @@ public class SwaggerConfiguration {
 
     private ApiInfo getApiInfo() {
         return new ApiInfo(
-                "Goku Authentication",
-                "Goku Authentication",
+                "Goku Ecommerce",
+                "Goku Ecommerce",
                 "1.0",
                 "Terms of service",
                 new Contact("MyApplicationDevTeam", "http://gokuecommerce.com", "support@myapp.com"),
