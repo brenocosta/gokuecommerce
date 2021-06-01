@@ -1,11 +1,11 @@
-Tecnologias Utilizadas
-Java 8
-Spring Boot
-Spring Data
-Spring Security
-Spring Cloud Feing
-Mysql
-Redis para cache
-Docker
-log-back 
- 
+**Tecnologias Utilizadas**
+
+1. - Java 8
+2. - Spring Boot
+3. - Spring Data
+4. - Spring Security
+5. - Spring Cloud Feing
+6. - Mysql
+7. - Redis para cache
+8. - Docker
+9. - log-back
