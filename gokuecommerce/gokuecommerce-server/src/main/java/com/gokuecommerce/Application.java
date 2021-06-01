@@ -14,7 +14,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 @ComponentScan(basePackages = "com.gokuecommerce")
 @SpringBootApplication
 @EnableAutoConfiguration
-@EnableFeignClients
+@EnableFeignClients 
 public class Application  extends WebSecurityConfigurerAdapter implements WebMvcConfigurer {
   
   public static void main(String[] args) {
