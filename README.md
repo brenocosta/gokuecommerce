@@ -36,13 +36,14 @@ A instalação local do projeto gokuecommerce e bem simples
 Para inicializar o projeto bastar execultar a class principal do projeto
 ![image](https://user-images.githubusercontent.com/6999602/120252476-05336980-c25b-11eb-8ce2-c885bf3c5989.png)
 
+
 ![image](https://user-images.githubusercontent.com/6999602/120252975-89d2b780-c25c-11eb-9014-a2ff0e9d9f1b.png)
 
 Após o processo de inicialização do projeto o banco de dados sera criado automaticamente e suas tabelas
 
 
 **Acessando Swagger**
-Swagger: http://localhost:8080/swagger-ui.html#/
+http://localhost:8080/swagger-ui.html#/
 
 ![image](https://user-images.githubusercontent.com/6999602/120253318-6b20f080-c25d-11eb-82e1-53f8015a4861.png)
 
